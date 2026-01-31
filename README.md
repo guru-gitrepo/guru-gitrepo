@@ -7,7 +7,7 @@ I am a VLSI Engineer passionate about the open-source silicon movement. Currentl
 ---
 
 ### 🚀 What I’m Working On
-- **[LDO Regulator]**: Currently implementing a Low-Dropout Regulator targeted for **TinyTapeout** fabrication.
+- **LDO Regulator**: Currently implementing a Low-Dropout Regulator targeted for **TinyTapeout** fabrication.
 - **PDK Exploration**: Deep-diving into **Skywater 130** characterization and layout constraints.
 - **Open-Source EDA**: Mastering the workflow between **Xschem** (schematic), **Ngspice** (simulation), and **Magic VLSI** (layout).
 
