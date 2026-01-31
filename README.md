@@ -7,7 +7,7 @@ I specialize in analog VLSI design and open-source EDA tools.
 - ⚡ **Tech Stack:** Xschem, Ngspice, Magic VLSI.
 - 💬 **Ask me about:** Analog simulation and layout verification.
 
-[Link to my Personal Site](https://guru-gitrepo.github.io)# Hi, I
+[Link to my Personal Site](https://guru-gitrepo.github.io)
 
 <!--
 **guru-gitrepo/guru-gitrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
