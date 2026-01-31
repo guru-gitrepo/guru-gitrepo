@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Guru 👋
+
+### 🛠 Analog Circuit Design Engineer
+I specialize in analog VLSI design and open-source EDA tools.
+
+- 🔭 **Current Project:** Implementing an LDO on Skywater 130 for TinyTapeout.
+- ⚡ **Tech Stack:** Xschem, Ngspice, Magic VLSI.
+- 💬 **Ask me about:** Analog simulation and layout verification.
+
+[Link to my Personal Site](https://guru-gitrepo.github.io)# Hi, I
 
 <!--
 **guru-gitrepo/guru-gitrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
