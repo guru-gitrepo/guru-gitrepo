@@ -1,14 +1,33 @@
-# Hi, I'm Guru 👋
+# Hi there, I'm Guru! 👋 
 
-### 🛠 Analog Circuit Design Engineer
-I specialize in analog VLSI design and open-source EDA tools.
+### ⚡ Analog & Mixed-Signal IC Design Engineer 
 
-- 🔭 **Current Project:** Implementing an LDO on Skywater 130 for TinyTapeout.
-- ⚡ **Tech Stack:** Xschem, Ngspice, Magic VLSI.
-- 💬 **Ask me about:** Analog simulation and layout verification.
+I am a VLSI Engineer passionate about the open-source silicon movement. Currently, I focus on designing high-performance analog blocks using the Skywater 130nm PDK and open-source EDA tools.
 
-[Link to my Personal Site](https://guru-gitrepo.github.io)
+---
 
+### 🚀 What I’m Working On
+- **[LDO Regulator]**: Currently implementing a Low-Dropout Regulator targeted for **TinyTapeout** fabrication.
+- **PDK Exploration**: Deep-diving into **Skywater 130** characterization and layout constraints.
+- **Open-Source EDA**: Mastering the workflow between **Xschem** (schematic), **Ngspice** (simulation), and **Magic VLSI** (layout).
+
+### 🛠 Tech Stack & Tools
+- **Design & Sim:** Xschem, Ngspice, Gaw
+- **Physical Design:** Magic VLSI, Netgen (LVS), OpenLane
+- **Hardware:** Skywater 130nm, Efabless Caravel, TinyTapeout
+- **Languages:** Verilog (Mixed-signal verification), Python (Scripting)
+
+### 📊 GitHub Stats
+![Guru's GitHub stats](https://github-readme-stats.vercel.app/api?username=guru-gitrepo&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guru-gitrepo&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Connect with Me
+- **Portfolio:** [guru-gitrepo.github.io](https://guru-gitrepo.github.io)
+- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/guruprasad-karmic)
+
+> "Turning sand into circuits, one layout at a time." 🏗️✨
 <!--
 **guru-gitrepo/guru-gitrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
