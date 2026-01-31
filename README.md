@@ -11,27 +11,13 @@ I am a VLSI Engineer passionate about the open-source silicon movement. Currentl
 - **Open-Source EDA**: Mastering the workflow between **Xschem** (schematic), **Ngspice** (simulation), and **Magic VLSI** (layout).
 
 ### 🛠 Tech Stack & Tools
-- **Design & Sim:** Xschem, Ngspice, Gaw
-- **Physical Design:** Magic VLSI, Netgen (LVS), OpenLane
-- **Hardware:** Skywater 130nm, Efabless Caravel, TinyTapeout
-- **Languages:** Verilog (Mixed-signal verification), Python (Scripting)
+- **Design & Sim:** Xschem, Ngspice
+- **Physical Design:** Magic VLSI, Netgen (LVS)
+- **Hardware:** Skywater 130nm, TinyTapeout
+- **Languages:** Spice, Verilog, Nutmeg (Scripting), Bash-shell
 ---
 ### 🌐 Connect with Me
 - **Portfolio:** [guru-gitrepo.github.io](https://guru-gitrepo.github.io)
 - **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/guruprasad-karmic)
 
 > "Turning sand into circuits, one layout at a time." 🏗️✨
-<!--
-**guru-gitrepo/guru-gitrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
