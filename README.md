@@ -18,7 +18,7 @@ I am a VLSI Engineer passionate about the open-source silicon movement. Currentl
 - **Languages:** Verilog (Mixed-signal verification), Python (Scripting)
 
 ### 📊 GitHub Stats
-![Guru's GitHub stats](https://github-readme-stats.vercel.app/api?username=guru-gitrepo&show_icons=true&theme=tokyonight)
+![My Stats](https://github-readme-stats.vercel.app/api?username=guru-gitrepo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guru-gitrepo&layout=compact&theme=tokyonight)
 
 ---
