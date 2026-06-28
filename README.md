@@ -6,10 +6,12 @@ I am a VLSI Engineer passionate about the open-source silicon movement. Currentl
 
 ---
 ### 🚀 What I’m Working On
-- **LDO Regulator**: Currently implementing a Low-Dropout Regulator targeted for **TinyTapeout** fabrication.
+- **RC Oscillator**: Currently implementing a RC relaxation oscillator targeted for **TinyTapeout** fabrication.
 - **PDK Exploration**: Deep-diving into **Skywater 130** characterization and layout constraints.
 - **Open-Source EDA**: Mastering the workflow between **Xschem** (schematic), **Ngspice** (simulation), and **Magic VLSI** (layout).
-
+### 🚀 Work done so far
+- **BGR**: Completed 0.9V BGR and submitted to TY_SKY26b for **TinyTapeout** fabrication (Chip expected during December 2026)
+- **LDO**: Submission ready for **TinyTapeout** fabrication.
 ### 🛠 Tech Stack & Tools
 - **Design & Sim:** Xschem, Ngspice
 - **Physical Design:** Magic VLSI, Netgen (LVS)
