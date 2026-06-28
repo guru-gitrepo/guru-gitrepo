@@ -21,5 +21,3 @@ I am a VLSI Engineer passionate about the open-source silicon movement. Currentl
 ### 🌐 Connect with Me
 - **Portfolio:** [guru-gitrepo.github.io](https://guru-gitrepo.github.io)
 - **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/guruprasad-karmic)
-
-> "Turning sand into circuits, one layout at a time." 🏗️✨
